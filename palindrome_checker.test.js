@@ -19,3 +19,7 @@ test('is "eye" a Palindrome', () => {
 test('A man, a plan, a canal. Panama', () => {
     expect(isPalindrome('A man, a plan, a canal. Panama')).toBeTruthy();
 });
+
+test('0_0 (: /-\ :) 0-0', () => {
+    expect(isPalindrome('0_0 (: /-\ :) 0-0')).toBeTruthy();
+});
