@@ -1,0 +1,24 @@
+{
+  "name": "Javascript_Coding_Challenges",
+  "version": "1.0.0",
+  "description": "Javascript Coding Challenges",
+  "main": "algorithm_scripting.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tashinyimala/Javascript_Coding_Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tashinyimala/Javascript_Coding_Challenges/issues"
+  },
+  "homepage": "https://github.com/Tashinyimala/Javascript_Coding_Challenges#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
